@@ -8,5 +8,16 @@ This is a Console based C++ Project, designed to determine the horoscope and pre
 - If you know horoscope of your partner you can easily check love compatibility.
 - This Programs asks input for your exact horoscope and Age.
 
+## Screenshots - :
+
+[![Untitled3.png](https://i.postimg.cc/tT5hwnRy/Untitled3.png)](https://postimg.cc/6282G3G1)
+
+[![Untitled.png](https://i.postimg.cc/j5rwsx35/Untitled.png)](https://postimg.cc/1gJ5BQQh)
+
+[![Untitled2.png](https://i.postimg.cc/vH6svrHJ/Untitled2.png)](https://postimg.cc/gndQz6hs)
+
+[![Untitled1.png](https://i.postimg.cc/mrW29dYp/Untitled1.png)](https://postimg.cc/pmkHbJ1K)
+
+
 
 
